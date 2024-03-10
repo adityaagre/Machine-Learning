@@ -1,2 +1,2 @@
-# Data-Mining
+# Machine Learning
 Course work. Assignments.
